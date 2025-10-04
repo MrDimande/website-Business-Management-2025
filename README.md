@@ -13,7 +13,7 @@ O projecto visa apresentar de forma moderna e dinâmica as empresas do grupo e o
 
 ## 📁 Estrutura do Projecto
 
-````markdown
+```markdown
 - 📂 **src/**
   - 📁 **components/**
     - 🧩 **ui/**
@@ -38,6 +38,7 @@ O projecto visa apresentar de forma moderna e dinâmica as empresas do grupo e o
 - 🎨 tailwind.config.js
 - 🧵 postcss.config.js
 - 🔩 vite.config.jss
+```
 
 ## ⚙️ Instalação e Execução
 
@@ -47,17 +48,6 @@ O projecto visa apresentar de forma moderna e dinâmica as empresas do grupo e o
    git clone https://github.com/teu-usuario/bmcpro-website.git
    cd bmcpro-website
    Instalar dependências
-   ```
-````
-
-## ⚙️ Instalação e Execução
-
-1. **Clonar o repositório**
-
-   ```bash
-   git clone https://github.com/teu-usuario/bmcpro-website.git
-   cd bmcpro-website
-
    ```
 
 1. **Instalar dependências**
